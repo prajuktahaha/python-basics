@@ -1,0 +1,6 @@
+tup = (2 , 4 , 7 , 8 , 12 , 5 , 0 , 8 , 7 , 8)
+tup1 = ("prajukta" , "divye" , "sharma")
+print(tup[0])
+print(type(tup[0]))
+print(tup1[0])
+print(type(tup1[0]))
